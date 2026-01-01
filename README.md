@@ -24,7 +24,7 @@ Spideko is a smooth, lightweight script with plenty of fun features for web deve
 - **Multiple uses:** Can be included on multiple pages or used with custom frame directories.
 - **Fun visual feedback:** Webmasters get to see their spider “work” while users are entertained.
 
-> [!INFO]
+> [!NOTE]
 > To see Spideko in action, visit my website [burixon.dev](https://burixon.dev)
 
 ---
@@ -71,7 +71,7 @@ And make sure to update the paths inside `spideko.js` for:
 
 These paths must point to the correct relative or absolute locations of your frames and images.
 
-> [!INFO]
+> [!NOTE]
 > The included index.html and banner.gif files are merely demonstration files for the script. They have no value or significance within the project.
 
 ---
