@@ -1,5 +1,6 @@
 // Project: Spideko - Your little helper in catching bugs;
-// Description: JavaScript decoration script that animates a spider walking across a webpage                                                                    //              and catching bugs that appear on it. Designed purely for visual fun and web
+// Description: JavaScript decoration script that animates a spider walking across a webpage
+//              and catching bugs that appear on it. Designed purely for visual fun and web
 //              experimentation.
 //              Created as an alternative to Oneko Cat for spider lovers.
 // Author: Kamil BuriXon Burek
@@ -26,7 +27,7 @@
         // DIMENSIONS
         spiderSize: 72, // spiders width [px]
         roachMinSize: 20, // roaches min width [px]
-        roachMaxSize: 56, // roaches max eidth [px]
+        roachMaxSize: 56, // roaches max width [px]
 
         // FILES
         // IMPORTANT - The paths provided are relative. To use a single file directory on multiple subpages, you must change the paths to your own absolute paths and place the files there.
@@ -96,7 +97,7 @@
         // In this case, the script will not execute (return) and the spider will not appear.
         // If you would also like to display a message to the user about this fact, please uncomment on the "alert" below.
         //
-	    // alert("Due to browser motion optimization settings, the spider and worm animations cannot be run.");
+	    // alert("Due to browser motion optimization settings, the spider and bug animations cannot be run.");
 	    //
 	    return;
 	}
