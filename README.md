@@ -85,7 +85,7 @@ Spideko is highly configurable through the `S` object. You can customize:
   - `roachMinSize`, `roachMaxSize`: Cockroach width range in pixels  
 
 - **Paths & frames**  
-  - `spiderFramesPath`, `roachFramesPath`, `webImgPath` : Paths to GIFs paths
+  - `spiderFramesPath`, `roachFramesPath`, `webImgPath` : Paths to GIFs frames
   - `spiderFramesCount`, `roachFramesCount`: Number of frames in each GIF  
 
 - **Speeds**  
